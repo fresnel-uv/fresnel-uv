@@ -2,7 +2,7 @@
 
 🌌 *"Exploring the intersection of mathematics, computing, and physics."*  
 
-![Profile Banner](https://imgur.com/a/SkqSogD)  
+![Profile Banner]([https://imgur.com/a/SkqSogD](https://github.com/fresnel-uv/fresnel-uv/blob/main/original_vig3YMbhRJrMhhk90AviUIW0JFH.jpg))  
 
 ## **🔹 About Me**  
 🔭 I work on **mathematical computing, algorithm design, and theoretical problem-solving.**  
