@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Profile Banner" width="100%" />
+  <img src="azu.jpg" alt="Profile Banner" width="100%" />
 </p>
 
 # 👋 Welcome to @fresnel-uv’s GitHub!
