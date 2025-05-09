@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="profile.jpg" alt="Profile Picture" width="160" style="border-radius: 50%;" />
+  <img src="kona.jfif" alt="Profile Picture" width="160" style="border-radius: 50%;" />
 </p>
 
 # 👋 Welcome to @fresnel-uv’s GitHub!
