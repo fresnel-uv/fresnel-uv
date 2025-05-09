@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Profile Banner" width="100%" />
+</p>
+
 # 👋 Welcome to @fresnel-uv’s GitHub!
 
 ## 🔹 About Me  
@@ -6,6 +10,31 @@
 💡 Tools: `C++`, `Python`, `Julia`, `Haskell`, `LaTeX`  
 ⚙️ Enthusiastic about **graph decomposition**, **symbolic computation**, **category theory**  
 🎯 Open to **collaborations in scientific computing & theoretical research**
+
+---
+
+## 🔬 Research Focus  
+I explore problems at the intersection of **graph theory**, **algebra**, and **combinatorics**, with an emphasis on:
+- Graph invariants, spectral properties, and Hosoya indices  
+- Symbolic algebra systems and computational frameworks  
+- Category-theoretic models in algorithm design  
+- Enumeration and optimization in discrete structures  
+
+---
+
+## 📄 Publications & Preprints  
+- **Graph Decompositions and the Hosoya Index**, *arXiv:xxxx.xxxxx* [[arXiv](https://arxiv.org/abs/xxxx.xxxxx)]  
+- **Symbolic Computation in Functional Languages**, *ResearchGate Preprint* [[Link](https://www.researchgate.net/publication/xxx)]  
+
+---
+
+## 🤝 Collaborations  
+I'm open to collaboration on:
+- Open-source mathematical libraries and tools  
+- Research involving symbolic or algebraic computation  
+- Formal systems in theoretical computer science or category theory  
+
+Feel free to reach out if you're working on adjacent problems.
 
 ---
 
@@ -38,11 +67,17 @@
 
 ---
 
-## 🛠️ Current Projects & Interests  
-- **Graph Theory:** Graph decompositions, spectral theory, Hosoya indices  
-- **Algorithms:** Symbolic computation, combinatorial optimization  
-- **Game Design:** Board game with piece re-entry, unique win conditions, territory control  
-- **Math Software:** Tools for algebraic manipulation & proof automation  
+## 📦 Key Repositories  
+- [`graph-theory-research`](https://github.com/fresnel-uv/graph-theory-research): Explorations in decomposition and graph invariants  
+- [`board-game-simulation`](https://github.com/fresnel-uv/board-game-simulation): A game framework with piece re-entry and territory control  
+- [`algebraic-tools`](https://github.com/fresnel-uv/algebraic-tools): Symbolic tools and algebraic simplification frameworks  
+
+---
+
+## 🏛 Affiliations  
+- Independent researcher in mathematical computing  
+- Previously affiliated with Central Luzon State University, Department of Mathematics and Physics.
+- Contributor to [ASES](https://github.com/ases-org) – model international enforcement framework
 
 ---
 
@@ -55,4 +90,3 @@
 ## 📫 Reach Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
