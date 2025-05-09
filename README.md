@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="azu.jpg" alt="Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="kona.jfif" alt="Profile Picture" width="160" style="border-radius: 50%;" />
+  <img src="azu.jpg" alt="Banner" width="75%" />
 </p>
 
 # 👋 Welcome to @fresnel-uv’s GitHub!
