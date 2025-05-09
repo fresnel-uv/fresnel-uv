@@ -5,21 +5,20 @@
 # 👋 Welcome to @fresnel-uv’s GitHub!
 
 ## 🔹 About Me  
-🔭 Focused on **mathematical computing**, **algorithm design**, and **theoretical problem-solving**  
-📖 Interests: **Graph theory**, **combinatorics**, **computational algebra**, **optics**  
+🔭 Focused on **mathematical computing** focusing on number theory and modern algebra, **algorithm design** for graph optimization and topological indices, and **theoretical problem-solving**  
+📖 Interests: **computational/algorithmic graph theory**, **computational algebra**, **number theory**  
 💡 Tools: `C++`, `Python`, `Julia`, `Haskell`, `LaTeX`  
-⚙️ Enthusiastic about **graph decomposition**, **symbolic computation**, **category theory**  
+⚙️ Enthusiastic about **graph decomposition**, **symbolic computation and algorithm development**, and **optimization**  
 🎯 Open to **collaborations in scientific computing & theoretical research**
 
 ---
 
 ## 🔬 Research Focus  
-I explore problems at the intersection of **graph theory**, **algebra**, and **combinatorics**, with an emphasis on:
-- Graph invariants, spectral properties, and Hosoya indices  
+I explore problems at the intersection of **graph theory**, **algebra**, and **number theory**, with an emphasis on:
+- Graph invariants, spectral properties, and computation of topological indices of arbitrary graphs.
 - Symbolic algebra systems and computational frameworks  
-- Category-theoretic models in algorithm design  
 - Enumeration and optimization in discrete structures  
-
+- Quadratic forms and composition algebras
 ---
 
 ## 📄 Publications & Preprints  
@@ -31,8 +30,8 @@ I explore problems at the intersection of **graph theory**, **algebra**, and **c
 ## 🤝 Collaborations  
 I'm open to collaboration on:
 - Open-source mathematical libraries and tools  
-- Research involving symbolic or algebraic computation  
-- Formal systems in theoretical computer science or category theory  
+- Research involving symbolic or algebraic computation and Diophantin equations. 
+- Formal systems in theoretical computer science or abstract algebra.
 
 Feel free to reach out if you're working on adjacent problems.
 
