@@ -76,7 +76,7 @@ Feel free to reach out if you're working on adjacent problems.
 ## 🏛 Affiliations  
 - Independent researcher in mathematical computing  
 - Previously affiliated with Central Luzon State University, Department of Mathematics and Physics.
-- Contributor to [ASES](https://github.com/ases-org) – model international enforcement framework
+
 
 ---
 
@@ -87,5 +87,5 @@ Feel free to reach out if you're working on adjacent problems.
 ---
 
 ## 📫 Reach Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](danielcabugao8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
