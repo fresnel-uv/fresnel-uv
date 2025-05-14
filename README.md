@@ -30,7 +30,7 @@ I explore problems at the intersection of **graph theory**, **algebra**, and **n
 ## 🤝 Collaborations  
 I'm open to collaboration on:
 - Open-source mathematical libraries and tools  
-- Research involving symbolic or algebraic computation and Diophantin equations. 
+- Research involving symbolic or algebraic computation and Diophantine equations. 
 - Formal systems in theoretical computer science or abstract algebra.
 
 Feel free to reach out if you're working on adjacent problems.
